@@ -1,21 +1,14 @@
 {
     "employee": {
       "id": "123456abc",
-      "name": "Jose Miguel",
-      "lastName": "Upia Urbaez",
-      "position": "Soporte Informatico",
+      "name": "Erick",
+      "lastName": "Piña",
+      "position": "Jefe de to' el mundo",
       "area": "Tecnología",
       "telephoneExtension": "N/A",
-      "institutionalEmail": "jurbaez@mirex.gob.do",
+      "institutionalEmail": "epina@mirex.gob.do",
       "status": "Autorizado",
       "vehicles": [
-        {
-          "brand": "Toyota",
-          "model": "Corolla",
-          "color": "Negro",
-          "plate": "A355419",
-          "year": "2010"
-        },
         {
           "brand": "Hyundai",
           "model": "Elantra",
