@@ -1,0 +1,43 @@
+{
+    "employee": {
+      "id": "123456abc",
+      "name": "Jose Miguel",
+      "lastName": "Upia Urbaez",
+      "position": "Soporte Informatico",
+      "area": "Tecnología",
+      "telephoneExtension": "N/A",
+      "institutionalEmail": "jurbaez@mirex.gob.do",
+      "status": "Autorizado",
+      "vehicles": [
+        {
+          "brand": "Toyota",
+          "model": "Corolla",
+          "color": "Negro",
+          "plate": "A355419",
+          "year": "2010"
+        },
+        {
+          "brand": "Hyundai",
+          "model": "Elantra",
+          "color": "Gris",
+          "plate": "A102932",
+          "year": "2017"
+        },
+        {
+          "brand": "Nissan",
+          "model": "Note",
+          "color": "Blanco",
+          "plate": "A874295",
+          "year": "2016"
+        },
+        {
+          "brand": "Mitsubishi",
+          "model": "Lancer",
+          "color": "Rojo",
+          "plate": "A982143",
+          "year": "2011"
+        }
+      ]
+    }
+}
+  
